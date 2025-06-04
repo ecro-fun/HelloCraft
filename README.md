@@ -1,4 +1,4 @@
-# OtherCraft
+# HelloCraft
 
 A minecraft plugin about adding new items.
 
