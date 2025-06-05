@@ -1,0 +1,26 @@
+name: HelloCraft
+
+author: ecro.fun
+
+description: Framework for adding new items
+
+main: io.taraxacum.hellocraft.HelloCraft
+
+website: ''
+
+version: ${project.version}
+
+api-version: 1.21.4
+
+depend: [ ]
+
+commands:
+  test:
+    description: test command
+    usage: /<command> <value>
+    permission: hellocraft.test
+
+permissions:
+  hellocraft.test.list:
+    description: test
+    default: op
