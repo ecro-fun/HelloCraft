@@ -1,4 +1,4 @@
-package io.taraxacum.lib;
+package io.taraxacum.lib.common.util;
 
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;

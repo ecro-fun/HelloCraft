@@ -1,6 +1,6 @@
 package io.taraxacum.hellocraft;
 
-import io.taraxacum.lib.Registry;
+import io.taraxacum.lib.common.util.Registry;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class HelloCraft extends JavaPlugin {
